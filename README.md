@@ -2,7 +2,7 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
 <p align="left"> 
-  Olá, seja bem-vindo! Eu sou o Matherson, QA Engineer atualmente na Buildbox. 
+  Olá! Eu sou o Matherson, QA Engineer atualmente na Buildbox. 
   Possuo experiência na criação de testes E2E, Integração e Performance. 
 </p>
 
